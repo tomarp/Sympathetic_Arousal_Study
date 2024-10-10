@@ -1,0 +1,127 @@
+
+Productivity Perception:
+1. How would you judge your productivity at this stage? [-2,2]
+    [-2] Very Negatively
+    [-1] Negatively
+    [ 0] Neutral
+    [ 1] Positively
+    [ 2] Very Positively
+
+2. How does the thermal condition in this office environment affect your productivity at this stage? [-2,2]
+    [-2] Decrease in productivity
+    [-1] Slightly decrease in productivity
+    [ 0] Neutral
+    [ 1] Slightly increase in productivity
+    [ 2] Increase in productivity
+
+3. How does the lighting in this office environment affect your productivity at this stage? [-2,2]
+    [-2] Decrease in productivity
+    [-1] Slightly decrease in productivity
+    [ 0] Neutral
+    [ 1] Slightly increase in productivity
+    [ 2] Increase in productivity
+
+4. How does the Acoustic condition in this office environment affect your productivity at this stage? [-2,2]
+    [-2] Decrease in productivity
+    [-1] Slightly decrease in productivity
+    [ 0] Neutral
+    [ 1] Slightly increase in productivity
+    [ 2] Increase in productivity
+
+5. How does the air quality in this office environment affect your productivity at this stage? [-2,2]
+    [-2] Decrease in productivity
+    [-1] Slightly decrease in productivity
+    [ 0] Neutral
+    [ 1] Slightly increase in productivity
+    [ 2] Increase in productivity
+
+
+Thermal Perception:
+1. What is your thermal sensation in this room? [-2,2]
+    [-2] Cold
+    [-1] Slightly Cold
+    [ 0] Neutral
+    [ 1] Slightly Warm
+    [ 2] Warm
+
+2. Choose your thermal comfort in this room [-2,2]
+    [-2] Extremly Uncomfortable
+    [-1] Very uncomfortable
+    [ 0] Uncomfortable
+    [ 1] Slightly uncomfortable
+    [ 2] Comfortable
+
+3. How would you describe the thermal environment in this room? [-2,2]
+    [-2] Cold
+    [-1] Slightly Cold
+    [ 0] Neutral
+    [ 1] Slightly Warm
+    [ 2] Warm 
+
+Visual Perception:
+1. What is your visual sensation right now? [-2,2]
+    [-2] Dark
+    [-1] Light Dark
+    [ 0] Neutral
+    [ 1] Light Bright
+    [ 2] Bright
+
+2. Choose your visual comfort in this room [-2,2]
+    [-2] Extremly Uncomfortable
+    [-1] Very uncomfortable
+    [ 0] Uncomfortable
+    [ 1] Slightly uncomfortable
+    [ 2] Comfortable
+
+3. How would you rate the glare level from artificial lighting sources in this environment? [-2,2]
+    [-2] No glare
+    [-1] Low glare
+    [ 0] Moderate glare
+    [ 1] High glare
+    [ 2] Very high glare
+
+
+Acoustic Perception
+1. What is your acoustic sensation in this environment? [-2;2]
+    [-2] Quite
+    [-1] Slightly Quite
+    [ 0] Neutral
+    [ 1] Slightly loud
+    [ 2] Loud
+
+2. Choose your acoustic comfort in this room? [-4;0]
+    [-2] Extremly Uncomfortable
+    [-1] Very uncomfortable
+    [ 0] Uncomfortable
+    [ 1] Slightly uncomfortable
+    [ 2] Comfortable
+
+3. How would you rate the overall noise level in this environment? [-2;2]
+    [-2] Not at all
+    [-1] Slightly distracting
+    [ 0] Moderately distracting
+    [ 1] Very distracting
+    [ 2] Extremely distracting
+
+Air Quality Perception:
+1. What is your air quality sensation in this room? [-2,2]
+    [-2] Poor
+    [-1] Slightly poor
+    [ 0] Neutral
+    [ 1] Slightly good
+    [ 2] Good
+
+2. Choose your air quality comfort in this room? [-2,2]
+    [-2] Extremly Uncomfortable
+    [-1] Very uncomfortable
+    [ 0] Uncomfortable
+    [ 1] Slightly uncomfortable
+    [ 2] Comfortable
+
+3. How would you rate the air quality in this environment? [-2,2]
+    [-2] Very Poor
+    [-1] Poor
+    [ 0] Neutral
+    [ 1] Good
+    [ 2] Very Good
+    
