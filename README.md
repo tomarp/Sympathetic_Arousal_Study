@@ -1,4 +1,4 @@
-# WEPOP summer 2024 documentation
+# Study on Physiological Responses and Perception Survey (summer 2024)
 
 ## EmotiBit Device Overview
 
