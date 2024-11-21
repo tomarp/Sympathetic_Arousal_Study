@@ -1,0 +1,62 @@
+
+Perception Survey Structure
+
+Productivity Perception
+- Q1: "How would you judge your productivity at this stage?"
+  Scale: [-2: Very Negatively, -1: Negatively, 0: Neutral, 1: Positively, 2: Very Positively]
+
+- Q2: "How does the thermal condition in this office affect productivity?"
+  Scale: [-2: Decrease, -1: Slight Decrease, 0: Neutral, 1: Slight Increase, 2: Increase]
+
+- Q3: "How does lighting affect productivity?"
+  Scale: [-2: Decrease, -1: Slight Decrease, 0: Neutral, 1: Slight Increase, 2: Increase]
+
+- Q4: "How does the acoustic condition affect productivity?"
+  Scale: [-2: Decrease, -1: Slight Decrease, 0: Neutral, 1: Slight Increase, 2: Increase]
+
+- Q5: "How does air quality affect productivity?"
+  Scale: [-2: Decrease, -1: Slight Decrease, 0: Neutral, 1: Slight Increase, 2: Increase]
+
+
+Thermal Perception
+- Q1: "What is your thermal sensation?"
+  Scale: [-2: Cold, -1: Slightly Cold, 0: Neutral, 1: Slightly Warm, 2: Warm]
+
+- Q2: "Rate your thermal comfort."
+  Scale: [-2: Extremely Uncomfortable, -1: Very Uncomfortable, 0: Uncomfortable, 1: Slightly Uncomfortable, 2: Comfortable]
+
+- Q3: "Describe the thermal environment."
+  Scale: [-2: Cold, -1: Slightly Cold, 0: Neutral, 1: Slightly Warm, 2: Warm]
+
+
+Visual Perception
+- Q1: "What is your visual sensation?"
+  Scale: [-2: Dark, -1: Light Dark, 0: Neutral, 1: Light Bright, 2: Bright]
+
+- Q2: "Rate your visual comfort."
+  Scale: [-2: Extremely Uncomfortable, -1: Very Uncomfortable, 0: Uncomfortable, 1: Slightly Uncomfortable, 2: Comfortable]
+
+- Q3: "Rate glare level from lighting."
+  Scale: [-2: No Glare, -1: Low Glare, 0: Moderate Glare, 1: High Glare, 2: Very High Glare]
+
+
+Acoustic Perception
+- Q1: "What is your acoustic sensation?"
+  Scale: [-2: Quiet, -1: Slightly Quiet, 0: Neutral, 1: Slightly Loud, 2: Loud]
+
+- Q2: "Rate your acoustic comfort."
+  Scale: [-2: Extremely Uncomfortable, -1: Very Uncomfortable, 0: Uncomfortable, 1: Slightly Uncomfortable, 2: Comfortable]
+
+- Q3: "Rate overall noise level."
+  Scale: [-2: Not at all, -1: Slightly Distracting, 0: Moderately Distracting, 1: Very Distracting, 2: Extremely Distracting]
+
+
+Air Quality Perception
+- Q1: "What is your air quality sensation?"
+  Scale: [-2: Poor, -1: Slightly Poor, 0: Neutral, 1: Slightly Good, 2: Good]
+
+- Q2: "Rate your air quality comfort."
+  Scale: [-2: Extremely Uncomfortable, -1: Very Uncomfortable, 0: Uncomfortable, 1: Slightly Uncomfortable, 2: Comfortable]
+
+- Q3: "Rate the air quality in this environment."
+  Scale: [-2: Very Poor, -1: Poor, 0: Neutral, 1: Good, 2: Very Good]
