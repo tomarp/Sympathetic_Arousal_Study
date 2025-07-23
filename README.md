@@ -1,4 +1,4 @@
-# Study on Physiological Responses and Perception Survey (summer 2024)
+# Study on Subjective Comfort and Sympathetic Arousal (summer 2024)
 
 ## EmotiBit Device Overview
 
