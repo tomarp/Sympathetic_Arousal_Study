@@ -21,7 +21,7 @@ Participants were asked to perform the following tasks in both the low-temperatu
 
 
 ### Study Pipeline
-![Pipeline](content/figures/experiment_events.pdf "FLow of phases during the experimental cycle")
+![Pipeline](content/figures/experiment_events.png "FLow of phases during the experimental cycle")
 
 ## Wearable Sensor Overview
 ### EmotiBit Device
@@ -52,14 +52,14 @@ The data column contains the following physiological and device signals:
 ## Visualization
 ### Raw data instance for individual (P02) participant data:
 
-![P02_LT](content/figures/P02_LT_raw_plot.pdf)
+![P02_LT](content/figures/P02_LT_raw_plot.png)
 
 ### SCR peaks instance for individual (P02) participant data during LT session:
 
-![P02_LT](content/figures/P02_LT_qc_plot.pdf)
+![P02_LT](content/figures/P02_LT_qc_plot.png)
 
 ### SCR peaks instance for individual (P02) participant data during HT session:
 
-![P02_LT](content/figures/P02_HT_qc_plot.pdf)
+![P02_LT](content/figures/P02_HT_qc_plot.png)
 
 
